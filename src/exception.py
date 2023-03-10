@@ -1,5 +1,5 @@
 import sys
-from logger import logging
+from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
     # Most of the information about the error is stored in the third varirable and hance storing the same
